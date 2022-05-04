@@ -14,8 +14,9 @@ body {
     background-size: 100% 100%; */
     font-family: Verdana, Helvetica, sans-serif;
     overflow-x: hidden;
+    color: #036ABF;
     background: 
-    linear-gradient(#6288C8 1%, #DFEFFD 90%), 
+    linear-gradient(#6288C8 1%, #EEF6FF 90%), 
     /* linear-gradient(to right, #0067C2 0%, #263B5B 10%),  */
     url('../imgs/t680e-1250x650-b.jpeg');
   background-blend-mode: screen;
@@ -26,7 +27,7 @@ body {
 
 h1, h2{
     text-align: center;
-    color: #036ABF;
+    
     /* padding-top: 18px; */
     /* margin: auto; */
     /* font-family: Verdana, Helvetica, sans-serif; */
